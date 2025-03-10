@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Laptop business system V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89A9F53D-1680-4A56-90B1-32601F8464AE}|Laptop business system V2\\Laptop business system V2.vcxproj|C:\\Users\\USER\\source\\repos\\Laptop business system V2\\Laptop business system V2\\Laptop business system V2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89A9F53D-1680-4A56-90B1-32601F8464AE}|Laptop business system V2\\Laptop business system V2.vcxproj|solutionrelative:Laptop business system V2\\Laptop business system V2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laptop business system V2.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Laptop business system V2\\Laptop business system V2\\Laptop business system V2.cpp",
+              "RelativeDocumentMoniker": "Laptop business system V2\\Laptop business system V2.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Laptop business system V2\\Laptop business system V2\\Laptop business system V2.cpp",
+              "RelativeToolTip": "Laptop business system V2\\Laptop business system V2.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAL8BAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T10:20:34.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
