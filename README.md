@@ -1,3 +1,3 @@
 # Laptop-Management-System
-Does the basic CRUD operations alongside filing
+Does the basic CRUD operations alongside filing....
 It also accomodates filing from .CSV type files 
